@@ -9,5 +9,6 @@ Python, SQL, C#, Microsoft Office, Data Science methodologies (Wrangling, cleani
 - Associate Degree in Computer Science, Remote State University (UNED) (_Graduating 2026_)
 
 ## Projects
-### [My Own Spotify Wrapped](https://github.com/bryanjva/MyOwnSpotifyWrapped)
-Inspired by the annual Spotify Wrapped, I decided to do my own version as an exercise in handling and visualizing data.
+<img align="left" width="250" height="150" src="https://github.com/bryanjva/Portfolio/blob/main/images/map.png"> [My Own Spotify Wrapped](https://github.com/bryanjva/MyOwnSpotifyWrapped)
+
+Inspired by the annual Spotify Wrapped, I decided to do my own version as an exercise in handling and visualizing data. I downloaded a copy of my streaming history from Spotify, added missing metadata with the help of MusicBrainz API and created a Folium Choropleth map highliting the most frequent countries of origin in the list.
