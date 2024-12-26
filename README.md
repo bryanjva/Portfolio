@@ -1,5 +1,8 @@
 # Data Science Portfolio - Bryan Villarreal
 
+-**Email**: [bryanjva@gmail.com](mailto:bryanjva@gmail.com)
+-**LinkedIn**: [in/bryanjva](https://www.linkedin.com/in/bryanjva/)
+
 ### Technical Skills
 Python, SQL, C#, Microsoft Office, Data Science methodologies (Wrangling, cleaning, analysis, modeling, visualization)
 
